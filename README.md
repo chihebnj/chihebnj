@@ -1,6 +1,9 @@
+
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=chihebnj.chihebnj&left_color=red&right_color=green" />
 
 <h1 align="center">
+    <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 120px></p>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chiheb+Najei!;" />
 </h1>
 <h3 align="center">A passionate game developer from Tunisia :tunisia:</h3>
