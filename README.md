@@ -6,15 +6,13 @@
     <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 120px></p>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chiheb+Najei!;" />
 </h1>
-<h3 align="center">A passionate game developer from Tunisia :tunisia:</h3>
+<h3 align="center">Backend Python Developer from Tunisia :tunisia:</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently looking for **a job**
- 
- 🌱 I’m currently learning **Flutter, Android,Docker**
+ 🔭 I’m currently **freelancing**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -27,10 +25,6 @@
   
   <a href="https://www.linkedin.com/in/chiheb-najei-3870881b9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <!--
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
  <hr/>
@@ -71,8 +65,5 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Abril+Fatface&pause=1000&color=920000&random=false&size=40&center=true&vCenter=true&width=500&height=70&lines=%E3%81%A4+%E3%81%A5%E3%81%8F.+.+.&lines=つ づく. . .;" />
 </h1>
-<!---<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>-->
 
 <br/>
