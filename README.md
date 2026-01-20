@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   
-  <a href="https://www.linkedin.com/in/chiheb-najei-3870881b9/" target="_blank">
+  <a href="www.linkedin.com/in/najeichiheb" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
@@ -41,10 +41,7 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/chihebnj/chihebnj/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+ <br/><br/>
 </div>
 
 <hr/>
