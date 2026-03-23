@@ -46,13 +46,7 @@ Backend developer from Tunisia 🇹🇳<br><br> with **2+ years of experience** 
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chihebnj&theme=radical&hide_border=false&include_all_commits=false&count_private=false) ![](https://nirzak-streak-stats.vercel.app/?user=chihebnj&theme=radical&hide_border=false)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chihebnj&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
-
----
-[![](https://visitcount.itsvg.in/api?id=chihebnj&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![](https://github-readme-stats.vercel.app/api?username=chihebnj&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=chihebnj&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chihebnj&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
