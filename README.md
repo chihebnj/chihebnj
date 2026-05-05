@@ -6,7 +6,7 @@
 </h1>
 
 # 💫 About Me:
-Backend developer from Tunisia 🇹🇳<br><br> with **2+ years of experience** designing scalable systems, building APIs, and automating CI/CD pipelines.
+Backend & DevOps Engineer from Tunisia 🇹🇳<br><br> with **2+ years of experience** designing scalable systems, building APIs, and automating CI/CD pipelines.
 - ⚙️ Specialized in **Django, FastAPI & system architecture**
 - 🚀 Built **production-ready CI/CD pipelines (Docker, Jenkins)**
 - 📊 Strong in **automation, ETL & data workflows**
